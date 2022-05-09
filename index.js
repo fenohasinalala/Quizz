@@ -123,6 +123,7 @@ const quizData = [
   });  
   return answer;  
  }; 
+ 
  //Fonction: afficher la question actuel avec les choix de réponse
  const loadQuiz = () => {  
   deselectAnswers();  
